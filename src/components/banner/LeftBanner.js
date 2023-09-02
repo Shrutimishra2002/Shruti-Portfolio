@@ -11,8 +11,9 @@ const LeftBanner = () => {
       delaySpeed: 2000,
     });
 
-    const githubUrl = 'https://drive.google.com/file/d/1oBtmWYrEkhuw4oWi72UPxPOljsulFggF/view?usp=sharing';
-    const resumeUrl = 'https://github.com/Shrutimishra2002';
+    const githubUrl = 'https://github.com/Shrutimishra2002';
+    const resumeUrl = 'https://drive.google.com/file/d/1i28_jo5ZZm00Od306fjH_xHIFjZ90577/view?usp=sharing';
+
 
     const openLink = (url) => {
       window.open(url, '_blank');
